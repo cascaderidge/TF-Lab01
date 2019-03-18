@@ -1,7 +1,7 @@
 environment_name = "tfe_CT-Sandbox"
 
-# Default test SPN value - Sandbox
-subscription_id = "e0b3c8b3-0ad0-4efc-b340-2c1f07edefab"
+# Default test SPN value - Sandbox, 
+subscription_id = "965c8882-db32-486f-83af-1265fc20af06"
 virtual_network_resource_group_name = "tfe-ct-network-rg"
 virtual_network01_name = "vnet01"
 virtual_network02_name = "vnet02"
