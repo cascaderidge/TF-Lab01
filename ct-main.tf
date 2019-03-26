@@ -17,12 +17,6 @@ provider "azurerm" {
 provider "random" {}
 
 
-
-
-/*
-provider "??" {}
-*/
-
 #
 # RESOURCE GROUP
 #####################################################################
